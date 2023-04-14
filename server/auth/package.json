@@ -1,0 +1,26 @@
+{
+  "name": "ipass-auth",
+  "version": "0.0.1-b",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyanD3V/iPass.git"
+  },
+  "author": "Daniel Benitez <benitezdaniel6@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PyanD3V/iPass/issues"
+  },
+  "homepage": "https://github.com/PyanD3V/iPass#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
